@@ -1,1 +1,1 @@
-if even
+if time.now.year even
